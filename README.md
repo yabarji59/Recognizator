@@ -44,7 +44,11 @@ Avant d'exécuter ce projet, assurez-vous d'avoir :
    ```bash
    node script.js
    ```
-
+   ici ce sera :
+   
+   ```bash
+   node app.js
+   ```
 3. Le script fera un appel à l'API OpenAI pour générer une description détaillée de l'image donnée, en français.
 
 ---
