@@ -1,0 +1,16 @@
+{
+  "name": "vision-api",
+  "description": "Decribe image with API Vision",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.76.3"
+  }
+}
